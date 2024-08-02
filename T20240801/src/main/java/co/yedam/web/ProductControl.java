@@ -15,7 +15,7 @@ public class ProductControl implements Control {
 
 	@Override
 	public void exec(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub11111111111111
 		String bno = req.getParameter("bno");
 		String page = req.getParameter("page");
 		

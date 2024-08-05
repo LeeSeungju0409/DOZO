@@ -6,6 +6,7 @@ import lombok.Data;
 
 @Data
 public class ProductVO {
+	//222222222222222222222222222222
 	private String prdCode;
 	private String prdName;
 	private String prdDesc;
